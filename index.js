@@ -26,5 +26,5 @@ app.get("/chef-recipe/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`chef recipe listening on port ${port}`);
+    console.log(`chef recipe listening on port: ${port}`);
 });
