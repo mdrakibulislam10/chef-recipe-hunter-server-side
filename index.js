@@ -13,6 +13,11 @@ app.get("/", (req, res) => {
     res.send("welcome to chef recipe server");
 });
 
+// send all data
+app.get("/chef-recipe", (req, res) => {
+    res.send(chefRecipeData);
+});
+
 
 
 app.listen(port, () => {
