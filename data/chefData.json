@@ -1,0 +1,367 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://images.unsplash.com/photo-1609053211574-186ad46bb212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "chef_name": "John Smith",
+        "short_bio": "A master of Mediterranean flavors, creating culinary wonders that delight the palate.",
+        "years_of_experience": 10,
+        "numbers_of_recipes": 50,
+        "likes": 1000,
+        "recipe_info": [
+            {
+                "id": 1,
+                "chef_id": 1,
+                "recipe_name": "Sushi Rolls",
+                "recipe_picture": "https://plus.unsplash.com/premium_photo-1668143360807-4e654dc5bae0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "fish",
+                    "vegetables",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Cook sushi rice. 2. Prepare fillings. 3. Place rice and fillings on nori. 4. Roll tightly. 5. Cut into bite-sized pieces. 6. Serve with soy sauce.",
+                "rating": 4.7
+            },
+            {
+                "id": 2,
+                "chef_id": 1,
+                "recipe_name": "Miso Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "dashi stock",
+                    "tofu",
+                    "miso paste",
+                    "green onions",
+                    "seaweed"
+                ],
+                "cooking_method": "1. Prepare dashi stock. 2. Add tofu and seaweed. 3. Dissolve miso paste. 4. Add green onions. 5. Simmer briefly. 6. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "chef_id": 1,
+                "recipe_name": "Teriyaki Chicken",
+                "recipe_picture": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "mirin",
+                    "sugar",
+                    "sesame seeds"
+                ],
+                "cooking_method": "1. Marinate chicken in soy sauce, mirin, and sugar. 2. Grill or pan-fry chicken. 3. Brush with teriyaki sauce. 4. Sprinkle with sesame seeds. 5. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://images.unsplash.com/photo-1627901594749-3976f7677cb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=417&q=80",
+        "chef_name": "Jane Doe",
+        "years_of_experience": 8,
+        "short_bio": "A creative genius with a flair for combining global cuisines into tantalizing and visually stunning dishes.",
+        "numbers_of_recipes": 30,
+        "likes": 800,
+        "recipe_info": [
+            {
+                "id": 4,
+                "chef_id": 2,
+                "recipe_name": "Ramen Noodles",
+                "recipe_picture": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "ingredients": [
+                    "ramen noodles",
+                    "chashu pork",
+                    "soft-boiled eggs",
+                    "bamboo shoots",
+                    "green onions"
+                ],
+                "cooking_method": "1. Cook ramen noodles. 2. Prepare toppings. 3. Boil broth. 4. Assemble noodles, toppings, and broth. 5. Garnish with green onions. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "id": 5,
+                "chef_id": 2,
+                "recipe_name": "Tempura",
+                "recipe_picture": "https://images.unsplash.com/photo-1593357849627-cbbc9fda6b05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "shrimp",
+                    "vegetables",
+                    "flour",
+                    "ice-cold water",
+                    "dipping sauce"
+                ],
+                "cooking_method": "1. Prepare batter. 2. Dip shrimp and vegetables in batter. 3. Deep-fry until golden brown. 4. Serve with dipping sauce. 5. Enjoy!",
+                "rating": 4.6
+            },
+            {
+                "id": 6,
+                "chef_id": 2,
+                "recipe_name": "Gyoza",
+                "recipe_picture": "https://images.unsplash.com/photo-1588182728399-e8f2df121744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                "ingredients": [
+                    "ground pork",
+                    "cabbage",
+                    "garlic",
+                    "ginger",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Prepare filling. 2. Wrap filling in gyoza wrappers. 3. Pan-fry until crispy",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://images.unsplash.com/photo-1612715647398-a3719a3025ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "chef_name": "Yuki Tanaka",
+        "short_bio": " culinary virtuoso specializing in authentic Asian cuisine, infusing traditional flavors with a modern twist.",
+        "years_of_experience": 12,
+        "numbers_of_recipes": 70,
+        "likes": 1200,
+        "recipe_info": [
+            {
+                "id": 7,
+                "chef_id": 3,
+                "recipe_name": "Tonkatsu",
+                "recipe_picture": "https://images.unsplash.com/photo-1625189657980-b419b768b0f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
+                "ingredients": [
+                    "pork cutlets",
+                    "flour",
+                    "egg",
+                    "panko breadcrumbs",
+                    "cabbage"
+                ],
+                "cooking_method": "1. Tenderize and season pork cutlets. 2. Coat cutlets in flour, egg, and breadcrumbs. 3. Deep-fry until golden brown. 4. Serve with shredded cabbage and tonkatsu sauce. 5. Enjoy!",
+                "rating": 4.9
+            },
+            {
+                "id": 8,
+                "chef_id": 3,
+                "recipe_name": "Sukiyaki",
+                "recipe_picture": "https://images.unsplash.com/photo-1648977555158-f3d4d5a79ea2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "thinly sliced beef",
+                    "tofu",
+                    "shiitake mushrooms",
+                    "noodles",
+                    "vegetables"
+                ],
+                "cooking_method": "1. Prepare sukiyaki sauce. 2. Heat the skillet and add beef. 3. Add tofu, mushrooms, and vegetables. 4. Cook everything in the sauce. 5. Serve with noodles. 6. Enjoy!",
+                "rating": 4.7
+            },
+            {
+                "id": 9,
+                "chef_id": 3,
+                "recipe_name": "Okonomiyaki",
+                "recipe_picture": "https://images.unsplash.com/photo-1629579436553-6b34e5ddd9de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "cabbage",
+                    "flour",
+                    "eggs",
+                    "green onions",
+                    "sliced pork"
+                ],
+                "cooking_method": "1. Mix cabbage, flour, eggs, and green onions. 2. Cook on a griddle with sliced pork on top. 3. Flip and cook until golden brown. 4. Top with okonomiyaki sauce and mayonnaise. 5. Enjoy!",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80",
+        "chef_name": "Taro Suzuki",
+        "short_bio": "A maestro of Latin American gastronomy, crafting vibrant and bold dishes that transport diners to new culinary heights.",
+        "years_of_experience": 15,
+        "numbers_of_recipes": 90,
+        "likes": 1500,
+        "recipe_info": [
+            {
+                "id": 10,
+                "chef_id": 4,
+                "recipe_name": "Udon Noodles",
+                "recipe_picture": "https://plus.unsplash.com/premium_photo-1664299332779-5cadf16015a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "udon noodles",
+                    "dashi stock",
+                    "soy sauce",
+                    "mirin",
+                    "green onions"
+                ],
+                "cooking_method": "1. Cook udon noodles. 2. Prepare dashi stock. 3. Add soy sauce and mirin to the stock. 4. Serve noodles in the stock. 5. Garnish with green onions. 6. Enjoy!",
+                "rating": 4.5
+            },
+            {
+                "id": 11,
+                "chef_id": 4,
+                "recipe_name": "Yakitori",
+                "recipe_picture": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "chicken skewers",
+                    "soy sauce",
+                    "mirin",
+                    "sake",
+                    "green onions"
+                ],
+                "cooking_method": "1. Marinate chicken in soy sauce, mirin, and sake. 2. Skewer chicken pieces. 3. Grill until cooked through. 4. Brush with sauce while grilling. 5. Garnish with green onions. 6. Enjoy!",
+                "rating": 4.8
+            },
+            {
+                "id": 12,
+                "chef_id": 4,
+                "recipe_name": "Shabu-Shabu",
+                "recipe_picture": "https://images.unsplash.com/photo-1556906851-99df9cb88ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "thinly sliced beef",
+                    "assorted vegetables",
+                    "dipping sauces",
+                    "rice"
+                ],
+                "cooking_method": "1. Prepare shabu-shabu broth. 2. Prepare dipping sauces. 3. Boil the broth and cook the beef and vegetables in it. 4. Dip cooked ingredients in the sauces. 5. Serve with rice. 6. Enjoy!",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://images.unsplash.com/photo-1558227901-87eb8922813f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "chef_name": "Jane Doe",
+        "years_of_experience": 8,
+        "short_bio": "A pastry prodigy with a magical touch, enchanting taste buds with her exquisite desserts that are as beautiful as they are delicious.",
+        "numbers_of_recipes": 30,
+        "likes": 800,
+        "recipe_info": [
+            {
+                "id": 13,
+                "chef_id": 5,
+                "recipe_name": "Ramen Noodles",
+                "recipe_picture": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "ramen noodles",
+                    "chashu pork",
+                    "soft-boiled eggs",
+                    "bamboo shoots",
+                    "green onions"
+                ],
+                "cooking_method": "1. Cook ramen noodles. 2. Prepare toppings. 3. Boil broth. 4. Assemble noodles, toppings, and broth. 5. Garnish with green onions. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "id": 14,
+                "chef_id": 5,
+                "recipe_name": "Tempura",
+                "recipe_picture": "https://images.unsplash.com/photo-1593357871477-00fd350cc0f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "shrimp",
+                    "vegetables",
+                    "flour",
+                    "ice-cold water",
+                    "dipping sauce"
+                ],
+                "cooking_method": "1. Prepare batter. 2. Dip shrimp and vegetables in batter. 3. Deep-fry until golden brown. 4. Serve with dipping sauce. 5. Enjoy!",
+                "rating": 4.6
+            },
+            {
+                "id": 15,
+                "chef_id": 5,
+                "recipe_name": "Gyoza",
+                "recipe_picture": "https://images.unsplash.com/photo-1589047133531-570405874c6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "ground pork",
+                    "cabbage",
+                    "garlic",
+                    "ginger",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Prepare filling. 2. Wrap filling in gyoza wrappers. 3. Pan-fry until crispy",
+                "rating": 4.4
+            },
+            {
+                "id": 16,
+                "chef_id": 5,
+                "recipe_name": "Sushi Rolls",
+                "recipe_picture": "https://plus.unsplash.com/premium_photo-1668143360807-4e654dc5bae0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "fish",
+                    "vegetables",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Cook sushi rice. 2. Prepare fillings. 3. Place rice and fillings on nori. 4. Roll tightly. 5. Cut into bite-sized pieces. 6. Serve with soy sauce.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Yuki Tanaka",
+        "short_bio": "A master of Italian cuisine, bringing the rich traditions of his homeland to life through his soulful and mouthwatering dishes.",
+        "years_of_experience": 12,
+        "numbers_of_recipes": 70,
+        "likes": 1200,
+        "recipe_info": [
+            {
+                "id": 17,
+                "chef_id": 6,
+                "recipe_name": "Tonkatsu",
+                "recipe_picture": "https://images.unsplash.com/photo-1611077855004-cc0614011bd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "pork cutlets",
+                    "flour",
+                    "egg",
+                    "panko breadcrumbs",
+                    "cabbage"
+                ],
+                "cooking_method": "1. Tenderize and season pork cutlets. 2. Coat cutlets in flour, egg, and breadcrumbs. 3. Deep-fry until golden brown. 4. Serve with shredded cabbage and tonkatsu sauce. 5. Enjoy!",
+                "rating": 4.9
+            },
+            {
+                "id": 18,
+                "chef_id": 6,
+                "recipe_name": "Sukiyaki",
+                "recipe_picture": "https://images.unsplash.com/photo-1648977576265-523a4b7df3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "thinly sliced beef",
+                    "tofu",
+                    "shiitake mushrooms",
+                    "noodles",
+                    "vegetables"
+                ],
+                "cooking_method": "1. Prepare sukiyaki sauce. 2. Heat the skillet and add beef. 3. Add tofu, mushrooms, and vegetables. 4. Cook everything in the sauce. 5. Serve with noodles. 6. Enjoy!",
+                "rating": 4.7
+            },
+            {
+                "id": 19,
+                "chef_id": 6,
+                "recipe_name": "Okonomiyaki",
+                "recipe_picture": "https://images.unsplash.com/photo-1591114320268-fb3aac361d8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                "ingredients": [
+                    "cabbage",
+                    "flour",
+                    "eggs",
+                    "green onions",
+                    "sliced pork"
+                ],
+                "cooking_method": "1. Mix cabbage, flour, eggs, and green onions. 2. Cook on a griddle with sliced pork on top. 3. Flip and cook until golden brown. 4. Top with okonomiyaki sauce and mayonnaise. 5. Enjoy!",
+                "rating": 4.6
+            },
+            {
+                "id": 20,
+                "chef_id": 6,
+                "recipe_name": "Udon Noodles",
+                "recipe_picture": "https://plus.unsplash.com/premium_photo-1664299332779-5cadf16015a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "udon noodles",
+                    "dashi stock",
+                    "soy sauce",
+                    "mirin",
+                    "green onions"
+                ],
+                "cooking_method": "1. Cook udon noodles. 2. Prepare dashi stock. 3. Add soy sauce and mirin to the stock. 4. Serve noodles in the stock. 5. Garnish with green onions. 6. Enjoy!",
+                "rating": 4.5
+            }
+        ]
+    }
+]
