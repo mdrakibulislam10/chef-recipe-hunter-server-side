@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "video_url": "https://www.youtube.com/embed/aArbHVjiDu0",
+        "recipe_name": "Tonkatsu",
+        "description": "Learn how to make crispy and tender Tonkatsu, a popular Japanese breaded and deep-fried pork cutlet. This video tutorial will guide you through the steps to achieve the perfect golden-brown Tonkatsu."
+    },
+    {
+        "id": 2,
+        "video_url": "https://www.youtube.com/embed/APPO8T037yk",
+        "recipe_name": "Maki Sushi",
+        "description": "Discover the art of making Maki Sushi rolls with various fillings. This video will teach you the techniques for rolling and slicing sushi rolls to create beautiful and delicious bite-sized treats."
+    },
+    {
+        "id": 3,
+        "video_url": "https://www.youtube.com/embed/A4yY7rkzATI",
+        "recipe_name": "Chicken Teriyaki",
+        "description": "Master the art of making Chicken Teriyaki, a classic Japanese dish. This video will show you how to make a flavorful teriyaki sauce and perfectly cook chicken for a mouthwatering result."
+    },
+    {
+        "id": 4,
+        "video_url": "https://www.youtube.com/embed/r4b6Ok5CvuE",
+        "recipe_name": "Udon Noodle Soup",
+        "description": "Learn how to prepare a comforting bowl of Udon Noodle Soup with a savory broth and delicious toppings. This video tutorial will guide you through the steps to make this satisfying Japanese noodle soup."
+    },
+    {
+        "id": 5,
+        "video_url": "https://www.youtube.com/embed/cl00v-5qz_U",
+        "recipe_name": "Matcha Green Tea Latte",
+        "description": "Indulge in the soothing flavors of Matcha Green Tea Latte. This video will teach you how to create a creamy and frothy Matcha Latte using high-quality matcha powder for a delightful beverage."
+    }
+]
