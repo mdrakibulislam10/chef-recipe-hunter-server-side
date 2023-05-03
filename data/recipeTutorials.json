@@ -1,32 +1,102 @@
 [
     {
         "id": 1,
-        "video_url": "https://www.youtube.com/embed/aArbHVjiDu0",
-        "recipe_name": "Tonkatsu",
-        "description": "Learn how to make crispy and tender Tonkatsu, a popular Japanese breaded and deep-fried pork cutlet. This video tutorial will guide you through the steps to achieve the perfect golden-brown Tonkatsu."
+        "recipe_img": "https://images.unsplash.com/photo-1617196034183-421b4917c92d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+        "recipe_name": "Sushi Rolls",
+        "addrecipe_tutorial": {
+            "steps": [
+                "Prepare sushi rice.",
+                "Cut vegetables and fish for fillings.",
+                "Place nori sheet on bamboo sushi mat.",
+                "Spread sushi rice evenly on nori.",
+                "Add fillings and roll tightly using the sushi mat.",
+                "Slice into bite-sized pieces.",
+                "Serve with soy sauce and wasabi."
+            ],
+            "tips": [
+                "Make sure the rice is slightly warm for easier rolling.",
+                "Use a sharp knife for clean and precise cuts."
+            ]
+        }
     },
     {
         "id": 2,
-        "video_url": "https://www.youtube.com/embed/APPO8T037yk",
-        "recipe_name": "Maki Sushi",
-        "description": "Discover the art of making Maki Sushi rolls with various fillings. This video will teach you the techniques for rolling and slicing sushi rolls to create beautiful and delicious bite-sized treats."
+        "recipe_img": "https://images.unsplash.com/photo-1610393069309-2607fcf74146?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "recipe_name": "Miso Soup",
+        "addrecipe_tutorial": {
+            "steps": [
+                "Boil dashi stock.",
+                "Add miso paste and dissolve it in the stock.",
+                "Add tofu, seaweed, and other desired ingredients.",
+                "Simmer for a few minutes.",
+                "Garnish with chopped green onions.",
+                "Serve hot."
+            ],
+            "tips": [
+                "Avoid boiling miso soup after adding miso paste to preserve its flavor.",
+                "Adjust the amount of miso paste to your taste preferences."
+            ]
+        }
     },
     {
         "id": 3,
-        "video_url": "https://www.youtube.com/embed/A4yY7rkzATI",
-        "recipe_name": "Chicken Teriyaki",
-        "description": "Master the art of making Chicken Teriyaki, a classic Japanese dish. This video will show you how to make a flavorful teriyaki sauce and perfectly cook chicken for a mouthwatering result."
+        "recipe_img": "https://images.unsplash.com/photo-1636381310569-b4084c665f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "recipe_name": "Tempura",
+        "addrecipe_tutorial": {
+            "steps": [
+                "Prepare the batter by mixing flour, cold water, and optionally, egg yolk.",
+                "Dip vegetables or seafood in the batter.",
+                "Heat oil in a deep pan or fryer.",
+                "Fry the battered items until golden and crispy.",
+                "Drain on a paper towel to remove excess oil.",
+                "Serve immediately with tempura dipping sauce."
+            ],
+            "tips": [
+                "Keep the batter cold to achieve a light and crispy texture.",
+                "Fry different ingredients separately to ensure even cooking."
+            ]
+        }
     },
     {
         "id": 4,
-        "video_url": "https://www.youtube.com/embed/r4b6Ok5CvuE",
-        "recipe_name": "Udon Noodle Soup",
-        "description": "Learn how to prepare a comforting bowl of Udon Noodle Soup with a savory broth and delicious toppings. This video tutorial will guide you through the steps to make this satisfying Japanese noodle soup."
+        "recipe_img": "https://images.unsplash.com/photo-1637024696628-02cb19cc1829?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1217&q=80",
+        "recipe_name": "Ramen",
+        "addrecipe_tutorial": {
+            "steps": [
+                "Boil water and cook ramen noodles according to the package instructions.",
+                "Prepare the soup base by simmering chicken or pork broth with soy sauce, miso, or other seasonings.",
+                "Boil eggs and marinate them in soy sauce and mirin.",
+                "Cook sliced meat, such as pork belly or chicken, in a pan.",
+                "Assemble the ramen bowl by placing noodles, soup, meat, eggs, and desired toppings.",
+                "Serve hot and enjoy!"
+            ],
+            "tips": [
+                "Customize your ramen with toppings like sliced green onions, nori, and bamboo shoots.",
+                "Adjust the seasoning of the soup to suit your taste."
+            ]
+        }
     },
     {
         "id": 5,
-        "video_url": "https://www.youtube.com/embed/cl00v-5qz_U",
-        "recipe_name": "Matcha Green Tea Latte",
-        "description": "Indulge in the soothing flavors of Matcha Green Tea Latte. This video will teach you how to create a creamy and frothy Matcha Latte using high-quality matcha powder for a delightful beverage."
+        "recipe_img": "https://images.unsplash.com/photo-1588182728399-e8f2df121744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "recipe_name": "Gyoza",
+        "addrecipe_tutorial": {
+            "steps": [
+                "Prepare the filling by combining minced pork, cabbage, garlic, ginger, green onions, soy sauce, sesame oil, and other desired seasonings.",
+                "Place a spoonful of the filling in the center of a gyoza wrapper.",
+                "Moisten the edges of the wrapper with water.",
+                "Fold the wrapper in half and pinch the edges to seal, creating a crescent shape.",
+                "Heat oil in a pan and arrange the gyoza in a single layer.",
+                "Cook until the bottom is golden brown.",
+                "Add water to the pan, cover, and steam for a few minutes.",
+                "Remove the lid and let the gyoza cook until the water evaporates.",
+                "Serve hot with dipping sauce."
+            ],
+            "tips": [
+                "Use store-bought gyoza wrappers for convenience.",
+                "Experiment with different fillings like shrimp, chicken, or vegetarian options.",
+                "Make a batch of gyoza sauce by mixing soy sauce, rice vinegar, sesame oil, and chili oil."
+            ]
+        }
     }
 ]
