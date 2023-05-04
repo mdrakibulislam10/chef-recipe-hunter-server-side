@@ -3,48 +3,49 @@
         "id": 1,
         "book_img": "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2015/09/screen-shot-2016-12-07-at-09-57-10.png",
         "book_name": "Japanese Cooking A Simple Art",
-        "price": 19.99,
-        "sold": 236,
-        "rating": 4.7
+        "sold_worldwide": 23036,
+        "rating": "8.7"
     },
     {
         "id": 2,
         "book_img": "https://m.media-amazon.com/images/I/71bRDTudpDL._AC_UF1000,1000_QL80_.jpg",
         "book_name": "Japanese Cookbook For Beginners",
-        "price": 14.99,
-        "sold": 189,
-        "rating": 4.5
+        "sold_worldwide": 13089,
+        "rating": "8.5"
     },
     {
         "id": 3,
         "book_img": "https://booksandbao.com/wp-content/uploads/2020/06/81JFF9PJ-zL-837x1000.jpg",
         "book_name": "Atsuko's Japanese Kitchen",
-        "price": 24.99,
-        "sold": 312,
-        "rating": 4.9
+        "sold_worldwide": 33012,
+        "rating": "7.9"
     },
     {
         "id": 4,
         "book_img": "https://m.media-amazon.com/images/I/81V+SQjFmML.jpg",
         "book_name": "Recipes Of Japanese Cooking",
-        "price": 17.99,
-        "sold": 156,
-        "rating": 4.6
+        "sold_worldwide": 13056,
+        "rating": "8.6"
     },
     {
         "id": 5,
         "book_img": "https://justhungry.com/files/images/izakaya-cookbook-cover.jpg",
         "book_name": "The Real Japanese Lzakaya Cookbook",
-        "price": 12.99,
-        "sold": 98,
-        "rating": 4.3
+        "sold_worldwide": 30098,
+        "rating": "9.3"
     },
     {
         "id": 6,
         "book_img": "https://m.media-amazon.com/images/I/71pzBAnrzqL.jpg",
         "book_name": "Japanese Cooking Made Simple",
-        "price": 21.99,
-        "sold": 272,
-        "rating": 4.8
+        "sold_worldwide": 23072,
+        "rating": "7.8"
+    },
+    {
+        "id": 7,
+        "book_img": "https://images.booksense.com/images/955/490/9781801490955.jpg",
+        "book_name": "Japanese Dessert Cookbook",
+        "sold_worldwide": 12072,
+        "rating": "9.7"
     }
 ]

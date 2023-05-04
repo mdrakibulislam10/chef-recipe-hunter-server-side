@@ -31,7 +31,7 @@ app.get("/recipe-tutorials", (req, res) => {
     res.send(recipeTutorialsData);
 });
 
-// data for recipe book shop
+// data for recipe book
 app.get("/recipe-books", (req, res) => {
     res.send(recipeBooksData);
 });

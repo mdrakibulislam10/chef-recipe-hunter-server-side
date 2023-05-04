@@ -3,7 +3,7 @@
         "id": 1,
         "recipe_img": "https://images.unsplash.com/photo-1617196034183-421b4917c92d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
         "recipe_name": "Sushi Rolls",
-        "addrecipe_tutorial": {
+        "recipe_tutorial": {
             "steps": [
                 "Prepare sushi rice.",
                 "Cut vegetables and fish for fillings.",
@@ -23,7 +23,7 @@
         "id": 2,
         "recipe_img": "https://images.unsplash.com/photo-1610393069309-2607fcf74146?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "recipe_name": "Miso Soup",
-        "addrecipe_tutorial": {
+        "recipe_tutorial": {
             "steps": [
                 "Boil dashi stock.",
                 "Add miso paste and dissolve it in the stock.",
@@ -42,7 +42,7 @@
         "id": 3,
         "recipe_img": "https://images.unsplash.com/photo-1636381310569-b4084c665f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "recipe_name": "Tempura",
-        "addrecipe_tutorial": {
+        "recipe_tutorial": {
             "steps": [
                 "Prepare the batter by mixing flour, cold water, and optionally, egg yolk.",
                 "Dip vegetables or seafood in the batter.",
@@ -61,7 +61,7 @@
         "id": 4,
         "recipe_img": "https://images.unsplash.com/photo-1637024696628-02cb19cc1829?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1217&q=80",
         "recipe_name": "Ramen",
-        "addrecipe_tutorial": {
+        "recipe_tutorial": {
             "steps": [
                 "Boil water and cook ramen noodles according to the package instructions.",
                 "Prepare the soup base by simmering chicken or pork broth with soy sauce, miso, or other seasonings.",
@@ -80,7 +80,7 @@
         "id": 5,
         "recipe_img": "https://images.unsplash.com/photo-1588182728399-e8f2df121744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "recipe_name": "Gyoza",
-        "addrecipe_tutorial": {
+        "recipe_tutorial": {
             "steps": [
                 "Prepare the filling by combining minced pork, cabbage, garlic, ginger, green onions, soy sauce, sesame oil, and other desired seasonings.",
                 "Place a spoonful of the filling in the center of a gyoza wrapper.",
