@@ -6,7 +6,7 @@
         "profession": "MasterChef",
         "short_bio": "A master of Mediterranean flavors, creating culinary wonders that delight the palate.",
         "years_of_experience": 10,
-        "numbers_of_recipes": 50,
+        "numbers_of_recipes": 3,
         "likes": 1000,
         "recipe_info": [
             {
@@ -83,7 +83,7 @@
         "profession": "MasterChef",
         "years_of_experience": 8,
         "short_bio": "A creative genius with a flair for combining global cuisines into tantalizing and visually stunning dishes.",
-        "numbers_of_recipes": 30,
+        "numbers_of_recipes": 3,
         "likes": 800,
         "recipe_info": [
             {
@@ -158,7 +158,7 @@
         "profession": "MasterChef",
         "short_bio": " culinary virtuoso specializing in authentic Asian cuisine, infusing traditional flavors with a modern twist.",
         "years_of_experience": 12,
-        "numbers_of_recipes": 70,
+        "numbers_of_recipes": 3,
         "likes": 1200,
         "recipe_info": [
             {
@@ -234,7 +234,7 @@
         "profession": "MasterChef",
         "short_bio": "A maestro of Latin American gastronomy, crafting vibrant and bold dishes that transport diners to new culinary heights.",
         "years_of_experience": 15,
-        "numbers_of_recipes": 90,
+        "numbers_of_recipes": 3,
         "likes": 1500,
         "recipe_info": [
             {
@@ -312,7 +312,7 @@
         "profession": "MasterChef",
         "years_of_experience": 8,
         "short_bio": "A pastry prodigy with a magical touch, enchanting taste buds with her exquisite desserts that are as beautiful as they are delicious.",
-        "numbers_of_recipes": 30,
+        "numbers_of_recipes": 4,
         "likes": 800,
         "recipe_info": [
             {
@@ -408,7 +408,7 @@
         "profession": "MasterChef",
         "short_bio": "A master of Italian cuisine, bringing the rich traditions of his homeland to life through his soulful and mouthwatering dishes.",
         "years_of_experience": 12,
-        "numbers_of_recipes": 70,
+        "numbers_of_recipes": 4,
         "likes": 1200,
         "recipe_info": [
             {
